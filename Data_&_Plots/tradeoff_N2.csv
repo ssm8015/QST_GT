@@ -1,8 +1,0 @@
-N,B_request,B_used,max_CNOTs_per_qubit,status
-2,5,5,3.000000,Optimal
-2,6,6,2.000000,Optimal
-2,7,7,2.000000,Optimal
-2,8,8,2.000000,Optimal
-2,9,9,1.000000,Optimal
-2,10,10,1.000000,Optimal
-2,11,10,1.000000,Optimal
