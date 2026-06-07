@@ -1,0 +1,7 @@
+numpy
+networkx
+pulp
+qutip
+torch
+scikit-learn
+nbformat
